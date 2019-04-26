@@ -1,0 +1,68 @@
+
+<svg width="307px" height="608px" viewBox="0 0 307 608" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <rect id="path-1" x="-2.13162821e-14" y="0" width="99.2063492" height="100"></rect>
+        <filter x="-7.1%" y="-5.0%" width="114.1%" height="114.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Terminal" transform="translate(178.000000, 2.000000)">
+            <rect id="Rectangle" stroke="#979797" stroke-width="1" fill="#D8D8D8" fill-rule="evenodd" x="0.5" y="0.5" width="119" height="74" rx="8"></rect>
+            <text id="Out-of-stock" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="9.63" y="44">Cart Ready</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(186.000000, 126.000000)">
+            <path d="M1.05288719,28.0014926 L50.4049226,53.6169781 L98.9535393,28.0050938 L50,0.573151604 L1.05288719,28.0014926 Z" id="Rectangle" stroke="#979797" fill="#D8D8D8"></path>
+            <text id="Check-Stock" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="10.306" y="33">Check Stock</tspan>
+            </text>
+        </g>
+        <path id="Line" d="M128.495834,153.433611 L184.496079,152.996109 L184.503891,153.996079 L128.503647,154.433581 L128.534896,158.433458 L119.500015,154.003906 L128.464585,149.433733 L128.495834,153.433611 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line" d="M128.495834,421.433611 L184.496079,420.996109 L184.503891,421.996079 L128.503647,422.433581 L128.534896,426.433458 L119.500015,422.003906 L128.464585,417.433733 L128.495834,421.433611 Z" fill="#979797" fill-rule="nonzero"></path>
+        <g id="State" transform="translate(184.000000, 234.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <rect stroke="#979797" stroke-width="1" stroke-linejoin="square" fill="#D8D8D8" fill-rule="evenodd" x="0.5" y="0.5" width="98.2063492" height="99"></rect>
+            </g>
+            <g id="State-Text" transform="translate(1.428571, 23.000000)" fill="#000000" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal">
+                <text id="Stock-Checked">
+                    <tspan x="22.07" y="19">Stock </tspan>
+                    <tspan x="7.99" y="42">Checked</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Terminal" transform="translate(10.000000, 116.000000)">
+            <rect id="Rectangle" stroke="#979797" stroke-width="1" fill="#D8D8D8" fill-rule="evenodd" x="0.5" y="0.5" width="119" height="74" rx="8"></rect>
+            <text id="Out-of-stock" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="4.98" y="44">Out of stock</tspan>
+            </text>
+        </g>
+        <path id="Line" d="M235.580207,225.495661 L236.004739,180.495305 L237.004695,180.504739 L236.580163,225.505095 L240.579985,225.542829 L235.995283,234.499978 L231.580385,225.457927 L235.580207,225.495661 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line" d="M233.580207,379.495661 L234.004739,334.495305 L235.004695,334.504739 L234.580163,379.505095 L238.579985,379.542829 L233.995283,388.499978 L229.580385,379.457927 L233.580207,379.495661 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line" d="M234.580207,497.495661 L235.004739,452.495305 L236.004695,452.504739 L235.580163,497.505095 L239.579985,497.542829 L234.995283,506.499978 L230.580385,497.457927 L234.580207,497.495661 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line" d="M236.580207,122.495661 L237.004739,77.4953055 L238.004695,77.504739 L237.580163,122.505095 L241.579985,122.542829 L236.995283,131.499978 L232.580385,122.457927 L236.580207,122.495661 Z" fill="#979797" fill-rule="nonzero"></path>
+        <g id="Terminal" transform="translate(0.000000, 387.000000)">
+            <rect id="Rectangle" stroke="#979797" stroke-width="1" fill="#D8D8D8" fill-rule="evenodd" x="0.5" y="0.5" width="119" height="65" rx="8"></rect>
+            <text id="Out-of-stock" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="30.37" y="41">Failure</tspan>
+            </text>
+        </g>
+        <g id="Terminal" transform="translate(184.000000, 502.000000)">
+            <rect id="Rectangle" stroke="#979797" stroke-width="1" fill="#D8D8D8" fill-rule="evenodd" x="0.5" y="0.5" width="99" height="99" rx="8"></rect>
+            <text id="Out-of-stock" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="11.85" y="52.3333333">Success</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(178.000000, 391.000000)">
+            <path d="M1.04982053,32.044732 L57.4618703,61.4352242 L112.956577,32.0483303 L57,0.573669739 L1.04982053,32.044732 Z" id="Rectangle" stroke="#979797" fill="#D8D8D8"></path>
+            <text id="Check-Payment" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="7.335" y="37">Check Payment</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
